@@ -1,5 +1,8 @@
 title: Ronny's site
 description: the best site
-theme: minimal
+# theme: architect
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 show_downloads: false
 google_analytics: UA-52054421-9
