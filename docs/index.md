@@ -4,5 +4,3 @@
 this is code
 ```
 
-
-lior is gay
